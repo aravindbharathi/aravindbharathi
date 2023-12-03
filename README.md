@@ -13,4 +13,3 @@ IIT Bombay, 2019-2023
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbharathi&hide=scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/statuspage.svg" />](https://aravindbharathi.github.io/)
-<br>
