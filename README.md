@@ -1,6 +1,6 @@
 ### Heyy There! 👋
 
-Backup account for [https://github.com/aravindbharathi/](https://github.com/avalluvan/)
+Backup account for [https://github.com/avalluvan/](https://github.com/avalluvan/)
 
 Graduate Student Researcher,<br>
 Department of Astronomy and Astrophysics,<br>
